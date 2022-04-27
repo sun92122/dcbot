@@ -62,7 +62,6 @@ async def unload(ctx, extension):
     pass
     #################################################################
     # TODO: 實作 unload extension
-    # 分類: 上課練習
     # HINT: 參考上方 load extension，Bot 有內建 method: unload_extension
     #################################################################
 
@@ -72,7 +71,6 @@ async def reload(ctx, extension):
     pass
     #################################################################
     # TODO: 實作 reload extension
-    # 分類: 上課練習
     # HINT: 參考上方 load extension，Bot 有內建 method: reload_extension
     #################################################################
 
